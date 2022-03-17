@@ -1,0 +1,19 @@
+*{
+    font-family: 'Roboto';
+}
+h1 {
+    color: rgb(0, 140, 255);
+}
+
+body {
+    font-family: 'Nunito', sans-serif; 
+    background-color: #ececec;
+}
+
+.sombra{
+    box-shadow: 0px 0 5px rgba(31, 31, 31, 0.8);
+}
+
+.footericone{
+    box-shadow: 0px 0 5px rgba(31, 31, 31, 0.8);
+}
